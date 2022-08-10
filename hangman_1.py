@@ -50,4 +50,3 @@ while failurecount > 0:
 else:
     print('Sorry, your a moron and you lost, the secret word was', secretword)
     
-test = secretword*2
